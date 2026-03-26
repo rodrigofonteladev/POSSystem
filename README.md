@@ -86,7 +86,7 @@ dotnet run --project POSSystem.API
 ### 5. API Documentation
 
 ```
-https://localhost:<port>/scalar/v1
+http://localhost:<port>/scalar/v1
 ```
 
 ---
